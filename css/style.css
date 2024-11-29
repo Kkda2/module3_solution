@@ -1,0 +1,23 @@
+/* Navbar customization */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Dropdown background color for mobile menu */
+.navbar-collapse {
+  background-color: #f8f8f8;
+}
+
+/* Section Styling */
+.section {
+  height: 1000px;
+  background-color: #e0e0e0;
+  padding: 20px;
+}
+
+.content {
+  background-color: #ccc;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
